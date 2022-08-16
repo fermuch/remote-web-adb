@@ -9,4 +9,4 @@ Needs Chrome 89+ or chrome://flags/#enable-experimental-web-platform-features en
 * Run `adb connect localhost`
 * Now you can run `adb shell` or any other `adb` command you like
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/parched/remote-web-adb)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fermuch/remote-web-adb)
