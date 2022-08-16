@@ -1,6 +1,6 @@
 tasks:
   - init: |
-      sudo apt install adb curl
+      sudo DEBIAN_FRONTEND=noninteractive apt install --yes adb curl
       npm install --global http-server
     command: ./gitpod-adb init
 
