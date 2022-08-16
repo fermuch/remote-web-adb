@@ -4,9 +4,6 @@ tasks:
       npm install --global http-server
     command: ./gitpod-adb init
 
-image:
-  file: Dockerfile
-
 ports:
   - port: 8080
     onOpen: ignore
